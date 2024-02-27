@@ -1,5 +1,5 @@
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   background-color: #f5f7fa;
 }
 
@@ -208,6 +208,7 @@ body {
 }
 
 .contacts-section-link {
+  text-decoration: none;
   color: #565e6a;
   font-style: normal;
   font-weight: normal;
