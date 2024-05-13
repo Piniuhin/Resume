@@ -172,6 +172,10 @@ body {
   color: #000;
 }
 
+.edukation__link {
+  color: #fb6d3a;
+}
+
 /* sidebar sections */
 
 .sidebar-section {
@@ -209,7 +213,7 @@ body {
 
 .contacts-section-link {
   text-decoration: none;
-  color: #565e6a;
+  color: #fff; /* 565e6a */
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
